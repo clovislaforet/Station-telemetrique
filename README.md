@@ -1,4 +1,4 @@
-# Station-telemetrique
+# Station télémétrique
 Projet de station de télémétrie longue portée utilisant des modules LoRa pour transmettre des données entre un système embarqué (type avion RC) et une station sol.
 
 Technologies :
