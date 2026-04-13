@@ -20,8 +20,8 @@ Utilisation :
 - Alimenter le système, importer et lancer le code Python sur le PC, et ouvrir la carte via le lien HTML généré dans le dossier
 
 État du projet :
-En cours de développement
-Un rapport complet et précis du projet sera bientôt disponible
+En cours de développement...
+Un rapport complet et précis du projet sera bientôt disponible.
 
 Licence :
 MIT License
