@@ -21,6 +21,7 @@ Utilisation :
 
 État du projet :
 En cours de développement
+Un rapport complet et précis du projet sera bientôt disponible
 
 Licence :
 MIT License
