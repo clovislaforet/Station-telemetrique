@@ -39,6 +39,9 @@
 5. Observer les graphiques de télémétrie
 6. Ouvrir la carte via le lien HTML généré dans le dossier
 
+## Informations complémentaires
+Masse totale de la station air : 234g
+
 ## État du projet
 ***En cours de développement...***
 Un rapport complet et précis du projet sera bientôt disponible.
@@ -46,10 +49,18 @@ Un rapport complet et précis du projet sera bientôt disponible.
 ## Exemples
 <table align="center">
   <tr>
+    <td align="center"><b>Prototype (avec breadboard)</b></td>
+    <td align="center"><b>Exemple d'intégration sur avion RC</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5d0867f7-ace3-459e-99fc-64d67d1daf35" width="400"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/17c0ac51-b55d-4dc8-84de-23ca42c5eb46" width="400"></td>
+  </tr>
+  <tr>
     <td align="center"><b>Exemple de visualisation sur la carte</b></td>
     <td align="center"><b>Exemple de graphiques des informations télémétriques</b></td>
   </tr>
-  <tr>
+    <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/32175f78-2bbd-4fbc-a6df-a8fbc5d14779" width="400"></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/2aeeec0a-edbc-4e5b-bbcc-e329dbfdbb26" width="400"></td>
   </tr>
