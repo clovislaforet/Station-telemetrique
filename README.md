@@ -32,7 +32,7 @@
 - La station air contient aussi l'ESP32 avec sa caméra, mais celui-ci est indépendant du reste : on peut ou non l'allumer, voir ne pas l'installer du tout pour gagner de l'autonomie et du poids.
 
 ## Utilisation
-1. Câbler le système
+1. Câbler le système, et fixer au modèle RC la caméra
 2. Flasher sur les deux Arduino leur code respectif, ainsi que sur l'ESP32
 3. Alimenter le système, et attendre un court moment la bonne initialisation des composants
 4. Importer et lancer le code Python sur le PC
