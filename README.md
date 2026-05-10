@@ -38,14 +38,18 @@ Vous trouverez ci-dessous quelques informations générales relatives au projet,
 
 ## Utilisation
 1. Câbler le système, et fixer au modèle RC la caméra
-2. Flasher sur les deux Arduino leur code respectif, ainsi que sur l'ESP32
+2. Flasher sur les deux Arduino et sur l'ESP32-S3 IA CAM leur code respectif
 3. Alimenter le système, et attendre un court moment la bonne initialisation des composants
-4. Importer et lancer le code Python sur le PC
+4. Exécuter le code Python sur le PC, avec la station sol branchée sur un port série
 5. Observer les graphiques de télémétrie
-6. Ouvrir la carte via le lien HTML généré dans le dossier
+6. Ouvrir la carte via le lien HTML généré dans le dossier de travail
+7. Après le vol, récupérer la carte SD et enregistrer sur le PC le fichier contenant les images
+8. Se placer dans ce fichier, y ouvrir un terminal, et lancer la commande fournie pour générer une vidéo (grâce au logiciel FFMPEG qu'il faut préalablement installer)
 
 ## Informations complémentaires
 Masse totale de la station air : 234g
+
+*À noter que cette masse est celle du prototype, incluant notamment une breadboard et de nombreux fils. Une version finale plus compacte avec PCB permettrait une masse nettement inférieure.*
 
 ## Exemples
 <table align="center">
