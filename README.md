@@ -3,6 +3,11 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/b3b350f1-5e75-4383-9223-99ee7aa91aef" width="600"/></p>
 
+Vous trouverez ci-dessous quelques informations générales relatives au projet, mais un rapport complet et précis de celui-ci est disponible au téléchargement.
+
+## État du projet
+***En cours de développement...***
+
 ## Matériel
 - Microcontroleurs : Arduino Nano Every et Arduino Mega 2560
 - Module caméra : ESP32-S3 IA Camera
@@ -41,10 +46,6 @@
 
 ## Informations complémentaires
 Masse totale de la station air : 234g
-
-## État du projet
-***En cours de développement...***
-Un rapport complet et précis du projet sera bientôt disponible.
 
 ## Exemples
 <table align="center">
