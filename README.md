@@ -11,7 +11,7 @@ Vous trouverez ci-dessous quelques informations générales relatives au projet,
 ## Matériel
 - Microcontroleurs : Arduino Nano Every et Arduino Mega 2560
 - Module caméra : ESP32-S3 IA Camera
-- Antennes longue portée : 2 modules LoRa SX1278
+- Antennes longue portée : 2 modules LoRa SX1278 434mHz
 - GPS : U-blox NEO-7M
 - Capteur de température, d'humidité et de pression : BME280
 - UBEC 5V 3A et convertisseur de tension DC-DC 5V-3.3V
