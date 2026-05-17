@@ -65,6 +65,7 @@ void setup() {
     digitalWrite(led_rouge, LOW);
   }
   Serial.println("LoRa initialisé");
+  // Paramètres par défaut : SpreadingFactor(SF)=7 ; Bandwidth(BW)=125kHz ; CodingRate(CR)=4/5
   digitalWrite(led_verte, HIGH);
   delay(500);
   digitalWrite(led_verte, LOW);
