@@ -27,6 +27,7 @@ void setup() {
     Serial.println("LoRa init failed!");
     while (1);}
   Serial.println("Station sol prete");
+  // Paramètres par défaut : SpreadingFactor(SF)=7 ; Bandwidth(BW)=125kHz ; CodingRate(CR)=4/5
 
   delay(1000);
 }
