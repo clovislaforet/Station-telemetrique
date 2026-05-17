@@ -1,4 +1,4 @@
 Après le vol, récupérer la carte SD et enregistrer le dossier 'recordxx' sur l'ordinateur.
 Ouvrir l'invite de commande dans le dossier 'recordxx'.
-Taper directement "ffmpeg -framerate 10 -i img_%d.jpg -c:v libx264 -pix_fmt yuv420p video.mp4"
+Taper directement "ffmpeg -framerate 10 -i img_%d.jpg -c:v libx264 -pix_fmt yuv420p video.mp4" et appuyer sur Entrée
 Ouvrir la vidéo qui a été générée.
