@@ -6,7 +6,7 @@
 Vous trouverez ci-dessous quelques informations générales relatives au projet, mais un rapport complet et précis de celui-ci est disponible au téléchargement sous le nom "Rapport - Station télémétrique.pdf".
 
 ## État du projet
-***Les phases de tests sont terminées, le prototype final du système est fonctionnel. Une version avec PCB devrait prochainement voir le jour.***
+***Le prototype final du système est fonctionnel, et a été intégré avec succès à un aéromodèle !***
 
 ## Matériel
 - Microcontroleurs : Arduino Nano Every et Arduino Mega 2560
